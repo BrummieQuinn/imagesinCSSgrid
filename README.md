@@ -56,3 +56,10 @@ I also enjoyed the fact that, while it still gives me some trouble, CSS Flexbox 
 Going forward I will definitely be using more CSS Grid in my projects, but now it will be used in conjuction with CSS Flexbox if I need to build say a nav bar.
 
 I would also like to learn Javascript to give my page the same level of interactiveness as the original.
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="gOBNGOw" data-user="BrummieQuinn" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/BrummieQuinn/pen/gOBNGOw">
+  CSS Flexbox and CSS Grid</a> by Gina (<a href="https://codepen.io/BrummieQuinn">@BrummieQuinn</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
