@@ -51,6 +51,8 @@ You can even span columns and rows.
 
 I really enjoyed this project, it was fun watching the grid-items fall into place exactly as I directed them.
 
+I also love the automatic responsiveness.
+
 I also enjoyed the fact that, while it still gives me some trouble, CSS Flexbox is getting easier to manipulate.
 
 Going forward I will definitely be using more CSS Grid in my projects, but now it will be used in conjuction with CSS Flexbox if I need to build say a nav bar.
