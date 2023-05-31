@@ -1,0 +1,215 @@
+* {
+    box-sizing: border-box;
+   
+    
+}
+
+body {
+
+font-size: 14px;
+
+margin: 0;
+
+height: 10vh;
+
+width: 100vw;
+
+font-family: 'Martian Mono', monospace;
+
+}
+
+.flex-container {
+
+    display: flex;
+
+    flex-flow: row wrap;
+
+    justify-content: flex-start;
+
+    align-items: center;
+
+    padding-left: 10px;
+
+    height: 120px;
+
+    background-color: #d9d9d9;
+
+
+}
+
+.flex-btn {
+
+    display: flex;
+
+    flex-flow: row wrap;
+
+    margin: 10px;
+
+    border: 1px solid white;
+
+    border-radius: 5px;
+
+    align-items: stretch;
+
+    padding: 4px 15px;
+
+    text-align: center;
+
+    color: white;
+
+    
+
+}
+
+
+
+.grid-container {
+
+    display: grid;
+
+    justify-content: center;
+
+    text-align: center;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    grid-template-rows:  repeat(10, 1fr);
+
+   
+
+}
+
+img {
+
+    object-fit: contain;
+
+    height: 100%;
+
+    width: 100%;
+}
+
+.one {
+
+    display: grid;
+
+    grid-column-start: 1;
+
+    grid-column-end: 2;
+
+    grid-row-start: 1;
+
+    grid-row-end: 4;
+
+}
+
+.two {
+
+    display: grid;
+
+    grid-column-start: 2;
+
+    grid-column-end: 3;
+
+    grid-row-start: 1;
+
+    grid-row-end: 3;
+
+    background-color: rgb(237,229,240);
+
+    border-right: 1px solid white;
+}
+.three {
+
+    background-color: rgb(109,141,200);
+}
+
+.four {
+
+    background-color: rgb(165,130,188);
+}
+
+.five {
+
+    display: grid;
+
+    grid-column-start: 2;
+
+    grid-column-end: 3;
+
+    grid-row-start: 3;
+
+    grid-row-end: 5;
+
+    background-color: rgb(204,239,235);
+
+    border-right: 1px solid white;
+
+    border-bottom: 1px solid white; 
+
+
+}
+
+.six {
+
+
+    background-color: rgb(204,239,235);
+
+    border-top: 1px solid white;
+
+    border-left: 1px solid white;
+}
+
+
+.seven {
+
+    display: grid;
+
+    grid-column-start: 1;
+
+    grid-column-end: 2;
+
+    grid-row-start: 4;
+
+    grid-row-end: 6;
+
+    background-color: rgb(237,229,240);
+}
+
+.eight {
+
+    display: grid;
+
+    grid-column-start: 3;
+
+    grid-column-end: 4;
+
+    grid-row-start: 4;
+    
+    grid-row-end: 6;
+
+
+}
+
+.nine {
+
+    border-top: 1px solid white;
+
+    background-color: rgb(165,130,188);
+}
+
+.ten {
+
+    display: grid;
+
+    grid-column-start: 3;
+
+    grid-column-end: 4;
+
+    grid-row-start: 6;
+
+    grid-row-end: 10;
+
+    background-color: rgb(109,141,200);
+
+
+}
