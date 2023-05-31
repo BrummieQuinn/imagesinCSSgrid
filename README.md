@@ -57,9 +57,8 @@ Going forward I will definitely be using more CSS Grid in my projects, but now i
 
 I would also like to learn Javascript to give my page the same level of interactiveness as the original.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="gOBNGOw" data-user="BrummieQuinn" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/BrummieQuinn/pen/gOBNGOw">
+<iframe height="300" style="width: 100%;" scrolling="no" title="CSS Flexbox and CSS Grid" src="https://codepen.io/BrummieQuinn/embed/gOBNGOw?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/BrummieQuinn/pen/gOBNGOw">
   CSS Flexbox and CSS Grid</a> by Gina (<a href="https://codepen.io/BrummieQuinn">@BrummieQuinn</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
